@@ -100,6 +100,7 @@ Using pdfpages to include a separate front-page PDF makes the page numbering of 
 \includepdf{front-page.pdf}
 \cleardoublepage
 ...
+```
 
 The numbering is automatically set to `\pagenumbering{arabic}` after the table of contents.
 
